@@ -15,7 +15,9 @@
 
 ![image](https://github.com/user-attachments/assets/8c73003e-d84e-46a4-a3d4-df34f8a6d1df)
 
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8c73003e-d84e-46a4-a3d4-df34f8a6d1df" alt="学院图标">
+</p>
 
 
 
