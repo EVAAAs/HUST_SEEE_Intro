@@ -119,7 +119,7 @@
 |物理| [大学物理](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86) | 大学物理框架和思维导图、往年考试试卷、加密作业                  | **必修课**   |
 |物理| [电磁场](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/%E7%94%B5%E7%A3%81%E5%9C%BA)| 实验报告、模拟试卷和考试练习题、总结和易错点分析                  | **必修课**   |
 |物理| [高等工程电磁场](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/%E9%AB%98%E7%AD%89%E5%B7%A5%E7%A8%8B%E7%94%B5%E7%A3%81%E5%9C%BA)| 历年真题、加密作业                  |硕士课程   |
-|数学| [微积分]https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/%E5%BE%AE%E7%A7%AF%E5%88%86)| 总结和思维导图、习题和答案                 |**必修课**    |
+|数学| [微积分](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/%E5%BE%AE%E7%A7%AF%E5%88%86)| 总结和思维导图、习题和答案                 |**必修课**    |
 |数学| [线性代数](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0)| 总结                 |**必修课**    |
 |数学| [概率论](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA)| 习题、加密作业          |**必修课**    |
 |数学| [复变函数](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/%E5%A4%8D%E5%8F%98)| 考试复习题                 |**必修课**    |
