@@ -142,7 +142,6 @@
 |其它| [数学竞赛](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B)|教程、试卷、习题           |   |
 |其它| [各种通识教育](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2)|教程、试卷、习题           |   |
 
-建议参考https://github.com/YuetianW/HUST_EIC_Intro 获取更多资料
 
 
 ## 课外学习🏛待补充
