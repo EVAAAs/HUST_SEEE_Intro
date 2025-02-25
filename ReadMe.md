@@ -13,12 +13,12 @@
 </p>
 
 
+![image](https://github.com/user-attachments/assets/8c73003e-d84e-46a4-a3d4-df34f8a6d1df)
 
 
 
-<p align="center">
-  <img src="[https://s2.loli.net/2022/03/22/2Wvrnfo51d7F3Zz.png](https://p3-sdbk2-media.byteimg.com/tos-cn-i-xv4ileqgde/100d5671db7d472c9b1e05094bd8af64~tplv-xv4ileqgde-resize-w:750.image)" alt="学院图标">
-</p>
+
+
 
 
 
@@ -49,11 +49,11 @@
 
 ## 前言📕
 
-<p align="center">
-  <img src="https://s2.loli.net/2023/07/10/ctTvDjpIU5SPwoH.png" alt="首图" height="180px">
-</p>
+
 
 ### **Why？**:fireworks:
+
+同HUST-EIC：
 
 曾经坐在东九发呆的时候也会想，现在好像有着越来越多的东西需要学习，我们的时间却越来越少；也会思考，是否有一些事其实不值得我们投入那么多时间，但是那些“坑”又确确实实的存在，年复一年的等待着一届届的同学们往里跳；偶然间，看到[”浙江大学课程攻略共享计划“](https://github.com/QSCTech/zju-icicles)中的一句话感觉深受启发：
 
@@ -65,17 +65,18 @@
 
 ### What？💻
 
-:label:主要内容包括：课程作业，实验代码，实验报告，课外学习资源推荐、杂谈
+:label:主要内容包括：部分课程的课件与电子书资源，加密的课程作业，考试复习建议，实验代码，实验报告，课外学习资源推荐、杂谈
 
-:broken_heart: 不包括：因为版权问题，暂时不包括课程的课件与电子书资源
+:broken_heart: 不包括：未公开的课程的课件与电子书资源
 
 注：目前内容还在更新调整中，建议通过 `star` 而非`fork`的方式跟踪最新的`repo`
 
-### 关于电子信息类🗒️
+### 关于电气类🗒️
 
-如果你对电信专业的细分方向都有哪些、个人以后都有哪些发展方向和可以去做什么工作还有疑惑，推荐你观看：
+如果你对电气专业的细分方向都有哪些、个人以后都有哪些发展方向和可以去做什么工作还有疑惑，推荐你观看：
 
-[风口来了？一个视频讲透电子信息类所有专业/行业！【框框的b站大学-电子信息类】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1g44y1N7iQ?share_source=copy_web)
+
+[稳定待遇好？一个视频讲透电气类所有专业/行业！【框框的b站大学-电气类】电气工程及其自动化、智能电网信息工程、光源与照明、电气工程与智能控制、电机电器智能化…]( https://www.bilibili.com/video/BV1pc411g74h/?share_source=copy_web&vd_source=529926b0599a3d402ba6a49db6a5d1dd)
 
 希望对你有启发和帮助😊
 
@@ -83,9 +84,9 @@
 
 下面是本项目地址的二维码，欢迎你分享给身边有需要的同学！感谢你们对本项目的支持！
 
-<p align="center">
-  <img src="https://s2.loli.net/2022/10/12/thLSsbCXnOVB3Jq.png" alt="项目二维码" height="300px">
-</p>
+
+![image](https://github.com/user-attachments/assets/1e9ca311-5b0f-4aa1-bdcf-a1d8585827e7)
+
 
 
 
@@ -103,87 +104,54 @@
 
 ## 学院课程🏫
 
-电子信息工程专业本科培养计划：[电信培养计划](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/培养计划)
+电气专业本科培养计划：[电气培养计划](https://seee.hust.edu.cn/rcpy/bksjy/pyfa.htm)
 
-专业方向简介：[专业方向](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/专业方向课程群简介)
+专业方向简介：
+电气专业目前分A类和B类，可理解为设备类和系统类。细节待完善。
 
 课程内容更新中ing:construction:
 
-| 课程/link                                                    | 内容                  | 课程类型     |
-| ------------------------------------------------------------ | --------------------- | ------------ |
-| [大学物理实验](https://git.recolic.net/recolic-hust/phy-exp) | 实验                  | **必修课**   |
-| [C语言](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/C语言)| 实验、平时作业           |              |
-| [工程制图](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/工程制图) | 上机作业 | |
-| [模电实验](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/模电实验) | 实验+大作业           |              |
-| [数电实验](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/数电实验) | 实验、报告            |              |
-| [微机原理](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/微机原理) | 实验、报告            |              |
-| [数字信号处理](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/数字信号处理/数字信号处理.md) | 实验、报告            |              |
-| [信号与系统](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/信号与系统/信号与系统.md) | 实验、项目            |              |
-| [通信电子线路](https://github.com/EVAAAs/HUST_SEEE_Intro/blob/main/通信电子线路/通信电子线路.md) | 实验、报告            |              |
-| [微波实验](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/微波实验) | 实验、报告            |              |
-| [通信原理实验](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/通信原理实验) | 实验、仿真、报告      |              |
-| [数据挖掘](https://github.com/EVAAAs/HUST_SEEE_Intro/blob/main/数据挖掘/数据挖掘.md) | 实验、报告            | **专业课**   |
-| [机器学习导论](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/机器学习导论) | 实验、平时作业        |              |
-| [知识产权法律基础](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/知识产权法律基础) | 论文作业              |              |
-| [计算机视觉](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/计算机视觉) | 实验、报告            |              |
-| [计算机网络](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/计算机网络) | 复习资料              |              |
-| [操作系统](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/操作系统) | 课件、实验、报告      |              |
-| [多媒体搜索](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/多媒体搜索) | 论文分享作业          |              |
-| [天线与电波传播](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/天线与电波传播) | 实验、课后题答案            |              |
-| [本科毕业设计](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/本科毕业设计) | word模板、答辩PPT指导 | **毕业设计** |
+|类型| 课程/link                                                    | 内容                  | 课程类型     |
+|--| ------------------------------------------------------------ | --------------------- | ------------ |
+|物理| [大学物理实验](https://git.recolic.net/recolic-hust/phy-exp) | 实验、代码                  | **必修课**   |
+|物理| [大学物理实验](https://github.com/EVAAAs/EVA-s-LabReport) | 实验、报告                  | **必修课**   |
+|物理| [大学物理](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86) | 大学物理框架和思维导图、往年考试试卷、加密作业                  | **必修课**   |
+|物理| [大学物理](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86) | 大学物理框架和思维导图、往年考试试卷、加密作业                  | **必修课**   |
+|物理| [电磁场](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/%E7%94%B5%E7%A3%81%E5%9C%BA)| 实验报告、模拟试卷和考试练习题、总结和易错点分析                  | **必修课**   |
+|物理| [高等工程电磁场](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/%E9%AB%98%E7%AD%89%E5%B7%A5%E7%A8%8B%E7%94%B5%E7%A3%81%E5%9C%BA)| 历年真题、加密作业                  |硕士课程   |
+|数学| [微积分]https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/%E5%BE%AE%E7%A7%AF%E5%88%86)| 总结和思维导图、习题和答案                 |**必修课**    |
+|数学| [线性代数](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0)| 总结                 |**必修课**    |
+|数学| [概率论](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA)| 习题、加密作业          |**必修课**    |
+|数学| [复变函数](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/%E5%A4%8D%E5%8F%98)| 考试复习题                 |**必修课**    |
+|数学| [数学物理方程](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B)| 往年考试试卷、总结与题型归纳                 |**必修课**    |
+|电类| [模电](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/%E6%A8%A1%E7%94%B5)| 加密作业、总结与题型归纳                |**必修课**    |
+|电类| [数电](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/%E6%95%B0%E7%94%B5)| 往年考试试卷、易错点分析               |**必修课**    |
+|电类| [电力拖动](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/%E7%94%B5%E5%8A%9B%E6%8B%96%E5%8A%A8)| 仿真、实验报告、cheatpaper、加密作业（强烈安利英文电拖）               |**A类必修课**    |
+|电类| [电力电子](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/%E7%94%B5%E5%8A%9B%E7%94%B5%E5%AD%90)| 研讨课报告和PPT、总结、加密作业              |**必修课**    |
+|电类| [电机](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/%E7%94%B5%E6%9C%BA)| 加密作业、往年试卷、实验报告、思维导图、复习指南              |**必修课**    |
+|电类| [电磁装置设计基础](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/%E7%94%B5%E7%A3%81%E8%A3%85%E7%BD%AE%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80)| 加密作业、总结             |**A类必修课**    |
+|电类| [电气工程基础](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/%E7%94%B5%E6%B0%94%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80)| 作业            |**必修课**    |
+|电类| [电力电子装置与系统](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/%E7%94%B5%E5%8A%9B%E7%94%B5%E5%AD%90%E8%A3%85%E7%BD%AE%E4%B8%8E%E7%B3%BB%E7%BB%9F)| 加密作业              |   |
+|电类| [电力系统规划](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F%E8%A7%84%E5%88%92)| 作业              |  |
+|电类| [电气工程导论](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/%E7%94%B5%E6%B0%94%E5%B7%A5%E7%A8%8B%E5%AF%BC%E8%AE%BA)| 作业              |**必修课**    |
+|电类| [信号与系统](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F)| 往年考试试卷、总结与题型归纳     |**必修课**    |
+|电类| [自动控制理论](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BA)| 加密作业、研讨课报告和PPT    |**必修课**    |
+|电类| [检测技术](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/%E6%A3%80%E6%B5%8B%E6%8A%80%E6%9C%AF)|加密作业、研讨课报告和PPT、总结与题型归纳               |    |
+|电类| [工业等离子体](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/%E5%B7%A5%E4%B8%9A%E7%AD%89%E7%A6%BB%E5%AD%90%E4%BD%93)|非加密作业              |  硕士课程  |、
+|电类| [高电压工程](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/%E9%AB%98%E7%94%B5%E5%8E%8B%E5%B7%A5%E7%A8%8B)|代码              |   **必修课**   |
+|电类| [信号与控制](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E6%8E%A7%E5%88%B6_%E5%80%92%E7%AB%8B%E6%91%86)|实验报告、考试串讲、加密作业、练习题             |   **必修课**   |
+|其它| [工程力学](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6)|作业、思维导图             |   |
+|其它| [数学建模](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1)|常见算法（来自华科数学建模群）             |   |
+|其它| [数学竞赛](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B)|教程、试卷、习题           |   |
+|其它| [各种通识教育](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2)|教程、试卷、习题           |   |
 
-## 课外学习🏛
+建议参考https://github.com/YuetianW/HUST_EIC_Intro 获取更多资料
+
+
+## 课外学习🏛待补充
 
 ### 学习路线推荐
 
-电信专业别的不说，最大的优点就是好找工作😂，因为各种各样的知识都学了一些.
-
-因此，你既可以去研究机器学习、深度学习算法，也可以选择做前端或者后端开发；既可以去做网络信息安全，也可以去做软件测试；既可以去做通信研究，也可以去做硬件设计.......🟥🟧🟨🟩🟦
-
-下面是来自[IT技术知识开源图谱 (gitcode.host)](https://dev-roadmap.gitcode.host/)的一些技术方向的学习路线，谨供参考，希望可以帮助你早一点找到自己感兴趣，并愿意为之拼搏的目标与方向！
-
-> - [AI算法](https://codechina.gitcode.host/developer-roadmap/ai/intro/)
-> - [Python学习路线](https://codechina.gitcode.host/developer-roadmap/python/intro/)
-> - [前端技术](https://codechina.gitcode.host/developer-roadmap/frontend/intro/)
-> - [后端技术](https://codechina.gitcode.host/developer-roadmap/backend/intro/)
-> - [测试技术](https://codechina.gitcode.host/developer-roadmap/test/intro/)
-> - [安全技术](https://codechina.gitcode.host/developer-roadmap/security/intro/)
-> - [区块链技术](https://codechina.gitcode.host/developer-roadmap/blockchain/intro/)
-> - [云原生技术](https://codechina.gitcode.host/developer-roadmap/cloud-native/intro/)
-> - [音视频技术](https://codechina.gitcode.host/developer-roadmap/av/intro/)
-> - [Go语言](https://codechina.gitcode.host/developer-roadmap/go/intro/)
-> - [鸿蒙OS](https://codechina.gitcode.host/developer-roadmap/harmonyos/intro/)
->
-
-
-
-### 机器学习&深度学习
-
-- [机器学习 李宏毅 2022](https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php)
-
-  - > 机器学习经典入门课程，宝可梦大师李宏毅教授每年都会紧跟时事的更新，非常推荐
-
-- [动手学深度学习课程 (d2l.ai)](https://courses.d2l.ai/zh-v2/)
-
-  - > 沐神亲授，与实践结合紧密，一半理论，一半代码
-
-- [神经网络与深度学习 (nndl.github.io)](https://nndl.github.io/)
-
-  - > 比较新的深度学习入门教材，又名蒲公英书
-
-- [Deep Learning (deeplearningbook.org)](https://www.deeplearningbook.org/)
-
-  - > Ian Goodfellow所著，深度学习入门“圣经”——花书
-
-- [floodsung/Deep-Learning-Papers-Reading-Roadmap: Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech! (github.com)](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
-- [Practical Deep Learning for Coders | Practical Deep Learning for Coders (fast.ai)](https://course.fast.ai/)
-
-
-
-### 提升
-
-- [有哪些网上自学课程的好网站？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/31044894/answer/50427150)
-- [网络上有哪些免费的教育资源？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/19942068/answer/730647908)
 
 
 
@@ -279,6 +247,7 @@
 - [recolic/awesome-hust: HUST experiments, reports, and useful tools. (github.com)](https://github.com/recolic/awesome-hust)
 - [mfp0610/HUST-AIA-Courses-Resource: HUST-AIA学院课程资源 (github.com)](https://github.com/mfp0610/HUST-AIA-Courses-Resource)
 - [AlexFanw/HUSTER-CS: 华中科技大学 计算机科学与技术学院 学习资料💯 以及 实验资料💾 (github.com)](https://github.com/AlexFanw/HUSTER-CS)
+- [YuetianW/华中科技大学电信学院-电信专业 的课程分享与攻略](https://github.com/YuetianW/HUST_EIC_Intro)
 
 ### 校外友链
 
