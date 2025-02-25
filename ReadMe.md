@@ -111,7 +111,6 @@
 
 |类型| 课程/link                                                    | 内容                  | 课程类型     |
 |--| ------------------------------------------------------------ | --------------------- | ------------ |
-|物理| [大学物理实验](https://git.recolic.net/recolic-hust/phy-exp) | 实验、代码                  | **必修课**   |
 |物理| [大学物理实验](https://github.com/EVAAAs/EVA-s-LabReport) | 实验、报告                  | **必修课**   |
 |物理| [大学物理](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86) | 大学物理框架和思维导图、往年考试试卷、加密作业                  | **必修课**   |
 |物理| [大学物理](https://github.com/EVAAAs/HUST_SEEE_Intro/tree/main/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86) | 大学物理框架和思维导图、往年考试试卷、加密作业                  | **必修课**   |
