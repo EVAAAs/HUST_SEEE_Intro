@@ -13,7 +13,6 @@
 </p>
 
 
-![image](https://github.com/user-attachments/assets/8c73003e-d84e-46a4-a3d4-df34f8a6d1df)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8c73003e-d84e-46a4-a3d4-df34f8a6d1df" alt="学院图标">
@@ -28,13 +27,10 @@
   - [前言📕](#前言)
     - [**Why？**:fireworks:](#whyfireworks)
     - [What？💻](#what)
-    - [关于电子信息类🗒️](#关于电子信息类️)
+    - [关于电气类🗒️](#关于电气类️)
   - [下载🔽](#下载)
   - [学院课程🏫](#学院课程)
   - [课外学习🏛](#课外学习)
-    - [学习路线推荐](#学习路线推荐)
-    - [机器学习&深度学习](#机器学习深度学习)
-    - [提升](#提升)
   - [欢迎贡献😄](#欢迎贡献)
   - [版权声明📋](#版权声明)
   - [杂谈🔮](#杂谈)
