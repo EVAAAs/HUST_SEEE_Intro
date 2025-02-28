@@ -250,3 +250,4 @@
 - [PKUanonym/REKCARC-TSC-UHT: 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University (github.com)](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 - [QSCTech/zju-icicles: 浙江大学课程攻略共享计划 (github.com)](https://github.com/QSCTech/zju-icicles)
 - [USTC-Resource/USTC-Course: 中国科学技术大学课程资源 (github.com)](https://github.com/USTC-Resource/USTC-Course)
+- [电力电子飞跃手册（出国必读）](https://flyingbrochure.org/)
